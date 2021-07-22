@@ -1,0 +1,225 @@
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.exe
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.deps.json
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.runtimeconfig.json
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\ref\JMusik.WebApi.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Data.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Models.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Data.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Models.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\staticwebassets\JMusik.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\staticwebassets\JMusik.WebApi.StaticWebAssets.xml
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\scopedcss\bundle\JMusik.WebApi.styles.css
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.csproj.CopyComplete
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\ref\JMusik.WebApi.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Dtos.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Dtos.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.exe
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.deps.json
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.runtimeconfig.json
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.runtimeconfig.dev.json
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\ref\JMusik.WebApi.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Data.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Dtos.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Models.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Data.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Dtos.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\bin\Debug\net5.0\JMusik.Models.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.csproj.AssemblyReference.cache
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.AssemblyInfoInputs.cache
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.AssemblyInfo.cs
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.csproj.CoreCompileInputs.cache
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\staticwebassets\JMusik.WebApi.StaticWebAssets.Manifest.cache
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\staticwebassets\JMusik.WebApi.StaticWebAssets.xml
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\scopedcss\bundle\JMusik.WebApi.styles.css
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.RazorTargetAssemblyInfo.cache
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.csproj.CopyComplete
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\ref\JMusik.WebApi.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.genruntimeconfig.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.exe
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.deps.json
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.runtimeconfig.json
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.runtimeconfig.dev.json
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\ref\JMusik.WebApi.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.WebApi.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Serilog.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.Data.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.Dtos.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.Models.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.Data.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.Dtos.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\bin\Debug\net5.0\JMusik.Models.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.csproj.AssemblyReference.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.AssemblyInfoInputs.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.AssemblyInfo.cs
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\staticwebassets\JMusik.WebApi.StaticWebAssets.Manifest.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\staticwebassets\JMusik.WebApi.StaticWebAssets.xml
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\scopedcss\bundle\JMusik.WebApi.styles.css
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.RazorTargetAssemblyInfo.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.csproj.CopyComplete
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\ref\JMusik.WebApi.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.WebApi\obj\Debug\net5.0\JMusik.WebApi.genruntimeconfig.cache

@@ -1,0 +1,54 @@
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Data.deps.json
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Data.runtimeconfig.json
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Data.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Data.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\bin\Debug\net5.0\ref\JMusik.Data.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Data.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Models.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Models.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.csproj.CopyComplete
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\obj\Debug\net5.0\ref\JMusik.Data.dll
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.pdb
+C:\Users\Usuario\Documents\Proyectos Web-API-Net-core\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.genruntimeconfig.cache
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Data.deps.json
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Data.runtimeconfig.json
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Data.runtimeconfig.dev.json
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Data.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\bin\Debug\net5.0\ref\JMusik.Data.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Data.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Models.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\bin\Debug\net5.0\JMusik.Models.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.csproj.AssemblyReference.cache
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.AssemblyInfoInputs.cache
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.AssemblyInfo.cs
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.csproj.CoreCompileInputs.cache
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.csproj.CopyComplete
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\obj\Debug\net5.0\ref\JMusik.Data.dll
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.pdb
+C:\Proyectos\Tutoriales\Creando Web APIs .Net Core\Codigo\JMusik\JMusik.Data\obj\Debug\net5.0\JMusik.Data.genruntimeconfig.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\bin\Debug\net5.0\JMusik.Data.deps.json
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\bin\Debug\net5.0\JMusik.Data.runtimeconfig.json
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\bin\Debug\net5.0\JMusik.Data.runtimeconfig.dev.json
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\bin\Debug\net5.0\JMusik.Data.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\bin\Debug\net5.0\ref\JMusik.Data.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\bin\Debug\net5.0\JMusik.Data.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\bin\Debug\net5.0\JMusik.Models.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\bin\Debug\net5.0\JMusik.Models.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\obj\Debug\net5.0\JMusik.Data.csproj.AssemblyReference.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\obj\Debug\net5.0\JMusik.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\obj\Debug\net5.0\JMusik.Data.AssemblyInfoInputs.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\obj\Debug\net5.0\JMusik.Data.AssemblyInfo.cs
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\obj\Debug\net5.0\JMusik.Data.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\obj\Debug\net5.0\JMusik.Data.csproj.CopyComplete
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\obj\Debug\net5.0\JMusik.Data.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\obj\Debug\net5.0\ref\JMusik.Data.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\obj\Debug\net5.0\JMusik.Data.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Data\obj\Debug\net5.0\JMusik.Data.genruntimeconfig.cache
