@@ -1,0 +1,12 @@
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\bin\Release\net5.0\JMusik.Models.deps.json
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\bin\Release\net5.0\JMusik.Models.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\bin\Release\net5.0\ref\JMusik.Models.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\bin\Release\net5.0\JMusik.Models.pdb
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\obj\Release\net5.0\JMusik.Models.csproj.AssemblyReference.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\obj\Release\net5.0\JMusik.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\obj\Release\net5.0\JMusik.Models.AssemblyInfoInputs.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\obj\Release\net5.0\JMusik.Models.AssemblyInfo.cs
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\obj\Release\net5.0\JMusik.Models.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\obj\Release\net5.0\JMusik.Models.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\obj\Release\net5.0\ref\JMusik.Models.dll
+C:\Proyectos\Proyecto Rest Api Base\RestApi Base\JMusik.Models\obj\Release\net5.0\JMusik.Models.pdb

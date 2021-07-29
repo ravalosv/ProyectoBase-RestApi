@@ -15,7 +15,7 @@ namespace JMusik.WebApi.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> GET()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1", "value2", "value3", "value4", "value5", "value6" };
         }
 
         // GET api/values/5   //leer
